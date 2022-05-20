@@ -3,7 +3,7 @@ Power BI report on the CommandLog table by Ola Hallengren's SQL Server Maintenan
  
 Custom reporting built on the output of the Ola Hallengren Maintenance Solution in the CommandLog table. 
 - Data is available when commands of this maintenance solution are executed with @LogToTable = 'Y'. 
-- Now, this report is built to visualize data of a specific SQL Server instance. 
+- This report is built to visualize data of a specific SQL Server instance. 
  
 Please note this report is only aware of databases and objects that have received maintenance through the Ola Hallengren Maintenance Solution, it cannot provide full insights on your databases and their objects, nor will it have insights in activity through other jobs and processes.
  
