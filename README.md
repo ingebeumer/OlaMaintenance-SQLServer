@@ -14,9 +14,8 @@ The report is based on following data sources.
  
 # Requirements
 Get Power BI desktop either by installing as an app from the Microsoft Store or downloading directly.
-
-- https://aka.ms/pbidesktop (Microsoft Store)
-- https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-get-the-desktop
+- [Microsoft Store | Power BI Desktop](https://aka.ms/pbidesktop)
+- [Get Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-get-the-desktop)
  
 # Edit parameters 
 Edit parameters SQL Server instance and database to connect to the database with the CommandLog table you want to analyze.
