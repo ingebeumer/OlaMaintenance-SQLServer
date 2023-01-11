@@ -1,3 +1,5 @@
+# Insights from Ola Hallengren CommandLog table
+
 ## Description
 Power BI report on the CommandLog table by Ola Hallengren's SQL Server Maintenance Solution (all credits for the solution itself to https://ola.hallengren.com/). The report provides visualized insights on the CommandLog table in a SQL Server instance to support you in managing your database maintenance: planning, duration, what maintenance is done. All in the report is based on the CommandLog table.
  
