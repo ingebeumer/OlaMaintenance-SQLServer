@@ -23,12 +23,12 @@ Get Power BI desktop either by installing as an app from the Microsoft Store or 
 Edit parameters SQL Server instance and database to connect to the database with the CommandLog table you want to analyze.
 
 ### Edit parameters on opening the Power BI template file (pbit) and Load the data
-![image](https://user-images.githubusercontent.com/40343254/171740150-f61c1986-3588-4ea1-8485-9c589d31bb77.png)
+> ![image](https://user-images.githubusercontent.com/40343254/171740150-f61c1986-3588-4ea1-8485-9c589d31bb77.png)
 
 ### Edit parameters in a Power BI report file (pbix)
-![image](https://user-images.githubusercontent.com/40343254/171739479-b0a04658-b247-4d95-a67f-5c32dd4df0e2.png)
+> ![image](https://user-images.githubusercontent.com/40343254/171739479-b0a04658-b247-4d95-a67f-5c32dd4df0e2.png)
 
 ## Refresh data
 Open the pbix file with Power BI desktop. Get the latest data by refreshing all visuals in this report through Home + Refresh.
 
-![Refresh Power BI desktop file](https://user-images.githubusercontent.com/40343254/168686666-e15ca265-430f-463a-a31c-e5dc4953ee3f.png)
+> ![Refresh Power BI desktop file](https://user-images.githubusercontent.com/40343254/168686666-e15ca265-430f-463a-a31c-e5dc4953ee3f.png)
